@@ -1,0 +1,25 @@
+deck_slug,headword,translation_zh,pos,ipa,example_en,example_zh,tags
+bec-int,invoice,发票,n./v.,ˈɪnvɔɪs,"Please send the invoice by Friday.","请在周五前发送发票。",billing
+bec-int,negotiate,谈判;协商,v.,nɪˈɡoʊʃiːeɪt,"We need to negotiate better terms.","我们需要协商更好的条款。",meeting
+bec-int,agenda,议程,n.,əˈdʒendə,"Please share the meeting agenda in advance.","请提前分享会议议程。",meeting
+bec-int,deadline,截止期限,n.,ˈdedlaɪn,"The team is working to meet the deadline.","团队正努力按时完成。",project
+bec-int,delegate,委派/代表,v./n.,ˈdelɪɡeɪt,"We delegated tasks across teams.","我们把任务分配到各团队。",HR
+bec-int,quotation,报价单,n.,kwoʊˈteɪʃn̩,"Could you send a quotation today?","今天能发一份报价单吗？",sales
+bec-int,margin,利润率;n.边际,n.,ˈmɑːrdʒɪn,"Our margin improved this quarter.","本季度利润率提升了。",finance
+bec-int,cashflow,现金流,n.,ˈkæʃ fləʊ,"Keep an eye on cashflow risks.","留意现金流风险。",finance
+bec-int,shipment,装运;发货,n.,ˈʃɪpmənt,"The shipment will arrive on Monday.","货物将在周一到达。",logistics
+bec-int,compliance,合规,n.,kəmˈplaɪəns,"We must ensure compliance with policy.","必须确保遵守政策。",legal
+bec-int,feedback,反馈,n.,ˈfiːdbæk,"Your feedback helps us improve.","你的反馈有助于我们改进。",general
+bec-int,brochure,宣传册,n.,broʊˈʃʊr,"Please review the product brochure.","请查看产品宣传册。",marketing
+bec-adv,benchmark,基准;对标,n./v.,ˈbentʃmɑːrk,"We benchmarked industry leaders.","我们以行业标杆为参照。",strategy
+bec-adv,synergy,协同效应,n.,ˈsɪnərdʒi,"The merger created significant synergy.","合并带来显著协同效应。",strategy
+bec-adv,overhead,管理费用,n.,ˈoʊvərˌhɛd,"We aim to reduce overhead by 5%.","我们计划将管理费用降低5%。",finance
+bec-adv,liquidity,流动性,n.,lɪˈkwɪdəti,"Liquidity remains healthy.","流动性保持良好。",finance
+bec-adv,governance,治理,n.,ˈɡʌvərnəns,"Strong governance builds trust.","良好治理能建立信任。",esg
+bec-adv,stakeholder,利益相关者,n.,ˈsteɪkˌhoʊldər,"Engage key stakeholders early.","尽早与关键利益相关者沟通。",management
+bec-adv,mitigate,缓解;减轻,v.,ˈmɪtɪɡeɪt,"Mitigate operational risks.","降低运营风险。",risk
+bec-adv,procurement,采购,n.,prəˈkjʊrmənt,"The procurement cycle was shortened.","采购周期缩短了。",supply
+bec-adv,diversify,多元化;分散化,v.,daɪˈvɜːrsɪfaɪ,"We will diversify revenue streams.","我们将多元化收入来源。",strategy
+bec-adv,scalability,可扩展性,n.,ˌskeɪləˈbɪləti,"We tested the system's scalability.","我们测试了系统的可扩展性。",tech
+bec-adv,compliance-audit,合规审计,n.,kəmˈplaɪəns ˈɔːdɪt,"Schedule a compliance audit annually.","每年安排一次合规审计。",legal
+bec-adv,retention,留存;保留率,n.,rɪˈtenʃn̩,"Customer retention improved steadily.","客户留存稳步提升。",marketing
